@@ -1,0 +1,25 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+# GCF
+gcf/node_modules/*
+gcf/functions/node_modules/*
+gcf/lib/*
+
+package-lock.json
+yarn.lock
+
+functions/Firebase/firebaseConfig.js
