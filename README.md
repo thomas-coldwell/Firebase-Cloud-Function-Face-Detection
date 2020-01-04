@@ -9,4 +9,4 @@ Run `npm i` in both the main app directory and also in `gcf` and `gcf/functions`
 
 Then create a `firebaseConfig.js` in `functions/Firebase` which will export your cloud function endpoint url and firebase configuration that should be used.
 
-![Example detection result](https://thomas-coldwell.github.com/Firebase-Cloud-Function-Face-Detection/images/example.png)
+![Example detection result](https://github.com/thomas-coldwell/Firebase-Cloud-Function-Face-Detection/blob/master/images/example.png)
