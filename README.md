@@ -1,4 +1,4 @@
-# Firebase-Cloud-Function-Face-Detection
+# Firebase Cloud Function Face Detection
 Add face detection capabilities to your Expo app!
 
 This uses Firebase Cloud Functions and face-api.js for the server side processing of the image, but can easily be changed over to work on AWS etc.
